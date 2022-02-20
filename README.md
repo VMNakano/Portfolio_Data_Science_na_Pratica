@@ -3,16 +3,16 @@
 Meu portfólio com projetos de Data Science em Python 3 realizados no:
 - curso Data Science na Prática (prof. Carlos Melo)
 
-V Nakano
+## V Nakano
 Auditora Federal de Controle Externo e Cientista de Dados em formação.
 
 Background in: Engenharia, Gestão pela Qualidade Total, Auditoria.
 
-Links:
+## Links:
 
 LinkedIn
 Medium
 
-Projetos:
+## Projetos:
 
 Como ...: 
