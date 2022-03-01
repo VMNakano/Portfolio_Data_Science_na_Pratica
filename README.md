@@ -24,5 +24,8 @@ My portfolio with Python projects carried out at:
 
 # Projects:
 
-## 1: Data Analysis - Airbnb Porto
+**1: Data Analysis - Airbnb Porto**
+
 Data provided by Airbnb for the city of Porto - Portugal (18 variables and 10,748 lines) allowed us to understand some of its available properties through analysis of the variables and their distributions, missing values, outliers, data cleaning, identification of correlations, data representativeness and pandas_profiling.
+
+link: https://github.com/VMNakano/Portfolio_Python/blob/main/01_ADP_j2_DSNP_3_0_An%C3%A1lise_Dados_Airbnb_Porto_Val.ipynb
