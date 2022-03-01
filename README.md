@@ -19,11 +19,10 @@ My credentials include a specialization in Internal Audit and Governmental Contr
 
 # Portfolio_Python
 
-Meu portfólio com projetos em Python realizados no:
-- curso Data Science na Prática (prof. Carlos Melo)
+My portfolio with Python projects carried out at:
+- Data Science in Practice course (teacher Carlos Melo)
 
+# Projects:
 
-# Projetos:
-
-## 1: Análise de Dados - Airbnb Porto
-Dados fornecidos pelo Airbnb para a cidade do Porto - Portugal (18 variáveis e 10.748 linhas) permitiram entender um pouco de suas propriedades disponíveis por meio de análise das variáveis e de suas distribuições, valores ausentes, outliers, limpeza dos dados, identificação de correlações, representatividade dos dados e pandas_profiling.
+## 1: Data Analysis - Airbnb Porto
+Data provided by Airbnb for the city of Porto - Portugal (18 variables and 10,748 lines) allowed us to understand some of its available properties through analysis of the variables and their distributions, missing values, outliers, data cleaning, identification of correlations, data representativeness and pandas_profiling.
