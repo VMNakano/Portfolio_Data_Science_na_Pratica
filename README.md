@@ -1,4 +1,4 @@
-# Portfolio_Data_Science_na_Pratica
+# Portfolio_Python3
 
 Meu portfólio com projetos em Python 3 realizados no:
 - curso Data Science na Prática (prof. Carlos Melo)
