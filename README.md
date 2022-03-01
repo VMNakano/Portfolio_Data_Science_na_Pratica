@@ -23,7 +23,7 @@ Meu portfólio com projetos em Python realizados no:
 - curso Data Science na Prática (prof. Carlos Melo)
 
 
-## Projetos:
+# Projetos:
 
-### 1: Análise de Dados - Airbnb Porto
+## 1: Análise de Dados - Airbnb Porto
 Dados fornecidos pelo Airbnb para a cidade do Porto - Portugal (18 variáveis e 10.748 linhas) permitiram entender um pouco de suas propriedades disponíveis por meio de análise das variáveis e de suas distribuições, valores ausentes, outliers, limpeza dos dados, identificação de correlações, representatividade dos dados e pandas_profiling.
