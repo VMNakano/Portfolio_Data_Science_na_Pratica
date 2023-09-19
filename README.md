@@ -21,6 +21,7 @@ My credentials include a specialization in Internal Audit and Governmental Contr
 
 My portfolio with Python projects carried out at:
 - Data Science in Practice course (teacher Carlos Melo)
+- Data Science Analytics transforming businesses (teacher Adriana Silva)
 
 # Projects:
 
