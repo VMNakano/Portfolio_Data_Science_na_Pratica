@@ -11,7 +11,7 @@ As an experienced External Auditor I combine analytical skills, audit knowledge 
 
 My credentials include a specialization in Internal Audit and Governmental Control from Instituto Serzedello Corrêa - TCU, an MBA in Business Strategy from Fundação Getúlio Vargas - FGV, as well as a specialization in Applied Natural Sciences from Université Catholique de Louvain - UCL - Belgium.
 
-**Background in:** Engineering, Industrial Production, Auditing in bids and contracts and Data Analysis.
+**Background in:** Engineering, industrial production, auditing in bids and contracts and data analysis projects at TCU.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/val%C3%A9ria-n-13030747/)
@@ -21,7 +21,7 @@ My credentials include a specialization in Internal Audit and Governmental Contr
 
 My portfolio with Python projects carried out at:
 - Data Science in Practice course (teacher Carlos Melo)
-- Data Science Analytics transforming businesses (teacher Adriana Silva)
+- Data Science Analytics: transforming businesses (teacher Adriana Silva)
 
 # Projects:
 
