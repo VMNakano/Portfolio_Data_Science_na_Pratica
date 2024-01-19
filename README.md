@@ -1,7 +1,7 @@
 [![author](https://img.shields.io/badge/author-vnakano-blue.svg)](https://www.linkedin.com/in/val%C3%A9ria-n-13030747/) 
 
 <p align="center">
-  <img src="DataScience_Python_&_R" >
+  <img src="D:\VALÉRIA\00 - CURSOS\01 - Data Science Analytics T4 - Adriana Silva\DataScience_Python_&_R" >
 </p>
 
 # V Nakano
