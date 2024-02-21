@@ -1,9 +1,5 @@
 [![author](https://img.shields.io/badge/author-vnakano-blue.svg)](https://www.linkedin.com/in/val%C3%A9ria-n-13030747/) 
 
-<p align="center">
-  <img src="D:\VALÉRIA\00 - CURSOS\01 - Data Science Analytics longo - Adriana Silva\DataScience_Python_&_R" >
-</p>
-
 # V Nakano
 <sub>*Auditor* at Tribunal de Contas da União (EFS Brazil)</sub>
 
