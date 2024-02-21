@@ -1,3 +1,4 @@
+<DataScience_Python.jpg>
 
 # V Nakano
 <sub>*Senior Auditor* at Tribunal de Contas da União (EFS Brazil)</sub>
