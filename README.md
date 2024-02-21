@@ -21,7 +21,7 @@ My portfolio with Python, R and SQL projects carried out at:
 
 # Projects:
 
-**1: Data Analysis - Airbnb Porto**
+**1: Data Analysis - Airbnb Porto - Python**
 
 Data provided by Airbnb for the city of Porto - Portugal (18 variables and 10,748 lines) allowed us to understand some of its available properties through analysis of the variables and their distributions, missing values, outliers, data cleaning, identification of correlations, data representativeness and pandas_profiling.
 
