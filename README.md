@@ -24,5 +24,4 @@ Data provided by Airbnb for the city of Porto - Portugal (18 variables and 10,74
 
 Data provided by IMDb.
 
-<sub>link: https://github.com/VMNakano/Portfolio_Python/blob/main/02_Análise_Dados_IMDb.py<sub>
-
+<sub>link: https://github.com/VMNakano/Portfolio_Python/blob/main/02_Análise_Dados_IMDb<sub>
