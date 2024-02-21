@@ -11,7 +11,6 @@ My credentials include a specialization in Internal Audit and Governmental Contr
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/val%C3%A9ria-n-13030747/)
-* [Medium](https://www.medium.com)
 
 # Portfolio_Python
 
