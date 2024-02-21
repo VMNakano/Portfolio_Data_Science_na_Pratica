@@ -11,10 +11,7 @@ I am deeply inspired to develop new mindsets, methods, and technologies for achi
 
 # Portfolio
 
-My portfolio with Python, R and SQL projects carried out at:
-- Data Science in Practice course (teacher Carlos Melo)
-- Data Science Analytics: uma visão geral (teacher Adriana Silva)
-- Data Science Analytics: transforming businesses (teacher Adriana Silva)
+My portfolio with Python, R and SQL projects.
 
 # Projects:
 
