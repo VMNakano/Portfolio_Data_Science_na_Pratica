@@ -6,8 +6,7 @@ I am deeply inspired to develop new mindsets, methods, and technologies for achi
 
 **Background in:** Engineering, industrial production, auditing and data analysis.
 
-**Links:**
-* [LinkedIn](https://www.linkedin.com/in/val%C3%A9ria-n-13030747/)
+[LinkedIn](https://www.linkedin.com/in/val%C3%A9ria-n-13030747/)
 
 # Portfolio
 
