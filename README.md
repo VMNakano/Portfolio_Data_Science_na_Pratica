@@ -8,10 +8,6 @@ I am deeply inspired to develop new mindsets, methods, and technologies for achi
 
 [LinkedIn](https://www.linkedin.com/in/val%C3%A9ria-n-13030747/)
 
-# Portfolio
-
-My portfolio with Python, R and SQL projects.
-
 # Projects:
 
 **1: Data Analysis - Airbnb Porto - Python**
