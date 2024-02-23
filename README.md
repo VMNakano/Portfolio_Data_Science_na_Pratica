@@ -1,5 +1,6 @@
 
-# V Nakano
+# [V Nakano](https://www.linkedin.com/in/val%C3%A9ria-n-13030747/)
+
 <sub>*Senior Auditor* at Tribunal de Contas da União (EFS Brazil)</sub>
 
 I am deeply inspired to develop new mindsets, methods, and technologies for achieving exponential results in the actions of control bodies, through the amalgamation of professional and personal experiences and interests that I accumulate during my journey.
