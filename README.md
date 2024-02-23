@@ -1,5 +1,5 @@
 
-# [V Nakano](https://www.linkedin.com/in/val%C3%A9ria-n-13030747/)
+# V Nakano
 
 <sub>*Senior Auditor* at Tribunal de Contas da União (EFS Brazil)</sub>
 
